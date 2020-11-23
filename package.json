@@ -1,0 +1,28 @@
+{
+  "name": "kevin_db",
+  "version": "1.0.0",
+  "description": "A replicated, fault tolerant, in-memory, key-value database.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.0",
+    "wait-until": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcharellano/kevinDB.git"
+  },
+  "keywords": [],
+  "author": "kcharellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcharellano/kevinDB/issues"
+  },
+  "homepage": "https://github.com/kcharellano/kevinDB#readme"
+}
