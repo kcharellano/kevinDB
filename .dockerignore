@@ -1,0 +1,6 @@
+# Bad folders
+node_modules
+.git
+
+# Testing
+test_assignment3.py
