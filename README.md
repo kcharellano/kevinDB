@@ -1,5 +1,5 @@
 # kevinDB
-A replicated, fault tolerant, in-memory, key-value database.
+> A replicated, fault tolerant, in-memory, key-value database.
 
 ## Table of contents
 * [Motivation](#motivation)
